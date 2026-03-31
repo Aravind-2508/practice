@@ -3,7 +3,4 @@ practice25
 sdf
 dafklgj
 kjb
-jhlknl
-wtrsgezdt
-dfgad
-afd
+jh
