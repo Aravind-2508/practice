@@ -1,3 +1,2 @@
 afaspractice
-practice2
-cvx 
+practic
