@@ -1,4 +1,2 @@
 afaspractice
 pract
-jhbjk
-hkl
