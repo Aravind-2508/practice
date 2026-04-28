@@ -1,2 +1,2 @@
 afaspractice
-pract
+prac
